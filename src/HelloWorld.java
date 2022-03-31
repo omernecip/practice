@@ -10,6 +10,9 @@ public class HelloWorld {
         String words= scan.next();
         if(words.equals("fine")){
             System.out.println("Hava a nice day");
+
+        }else{
+            System.out.println("Go Hell");
         }
     }
 
