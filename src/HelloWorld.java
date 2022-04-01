@@ -20,7 +20,7 @@ public class HelloWorld {
 
         // doing awesome work2 !
         // Awesome work 3 is done and ready to be committed
-        // and ready to be pushed to remote reposity
+        // and ready to be pushed to remote reposity.
     }
 
 }
